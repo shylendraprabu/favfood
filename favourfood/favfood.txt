@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head><title>my fav food</title></head>
+    <style>
+        h1
+        { 
+            color:rgb(255, 111, 0); 
+            font-family: elephant;
+        }
+        h2
+        {
+            color: black;
+            font-family:cursive;
+        }
+        h4
+        {
+            color: black;
+            font-family:'Times New Roman', Times, serif;
+            font-size: 50%;
+        }
+    </style>
+    <body style="background-image:url('bk.jpeg');background-repeat: no-repeat;background-size: cover;">
+        <center><div style="background-image:url('food1.jpeg');background-repeat: no-repeat;background-size: cover; width:1080px; height: 480px; font-size:300%;"><h1>my favourite food</h1>
+        <center><h1>😋😋DELIOUS TO EAT🍴🍴</h1></center></div></center>
+        <center><div style="background-color: rgb(248, 91, 0); width: 1080px; height: 700px; font-size: 250%;"><h2>BIRYANI</h2>
+        <h4>*Biryani is the most delicious food in south indian culture with more and mighty spices.</h4>
+        <center><img src="D:\PICTURES\favfood\biryani.jpeg" alt="A" width="720px" height="430px" style="border:5px solid white ;"></center></div></center>
+        <center><div style="background-color: rgb(248, 0, 248); width: 1080px; height: 700px; font-size: 250%;"><h2>NAAN</h2>
+            <h4>*Naan is the delicious rotti type food in north indian culture with paneer butter masala.</h4>
+            <center><img src="D:\PICTURES\favfood\naan.jpeg" alt="A" width="720px" height="430px" style="border:5px solid white ;"></center></div></center>
+            <center><div style="background-color: rgb(9, 255, 0); width: 1080px; height: 700px; font-size: 250%;"><h2>FRUIT SALAD ICECREAM</h2>
+                <h4>*Fruit salad icecream with honey,nuts,cherries gives delight to taste it.</h4>
+                <center><img src="D:\PICTURES\favfood\fruit icecream.jpeg" alt="A" width="720px" height="430px" style="border:5px solid white ;"></center></div></center>
+    </body>
+</html>
