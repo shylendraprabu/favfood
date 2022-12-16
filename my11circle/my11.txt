@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+
+<head>
+    
+    <title>my11circle</title>
+    <link rel="stylesheet" href="my11cir.css">
+
+</head>
+<body>
+      
+    <div class="table">
+        <h1  id="heading1" style="text-align: center;color:white;">
+            ICC WORLD CUP 2022
+        </h1>
+        <hr>
+        <h2 id="heading2" style="text-align: center;color:white">
+            INDIA VS SRILANKA<BR>
+            SCORE CARD  
+        </h2><br><br>
+
+
+    <section class="section1" >
+        <div class="img"> <!--img-->
+            <img src="cricket.jpeg">
+        </div>
+
+        <table id="scoreCard"> 
+            <tr>
+                <th id="batsmanList">BATSMAN</th>
+                <th id="runScored">R</th>
+                <th id="ballFaced">B</th>
+                <th id="noOfFours">4s</th>
+                <th id="noOfSixes">6s</th>
+                <th id="strikeRate">Sr</th>
+            </tr>
+            <tr>
+
+                <td ><a href="https://en.wikipedia.org/wiki/Virat_Kohli" target="_blank" >Virat Kohli</a></td>
+                <td>100</td>
+                <td>50</td>
+                <td>10</td>
+                <td>7</td>
+                <td>200</td>
+            </tr>
+             <tr>
+                <td id="batsmanName"><a href="https://en.wikipedia.org/wiki/KL_Rahul" target="_blank" >K.L.Rahul</a></td>
+                <td>40</td>
+                <td>10</td>
+                <td>2</td>
+                <td>4</td>
+                <td>30</td>
+             </tr>
+             <tr>
+                <td><a href="https://en.wikipedia.org/wiki/Rohit_Sharma" target="_blank">Rohit Sharma</a></td>
+                <td>50</td>
+                <td>30</td>
+                <td>5</td>
+                <td>3</td>
+                <td>40</td>
+             </tr>
+             <tr>
+               
+                 <td><a href="https://en.wikipedia.org/wiki/MS_Dhoni" target="_blank">Dhoni</a></td>
+                 <td>10</td>
+                 <td>3</td>
+                 <td>2</td>
+                 <td>30</td>
+                 <td>20</td>
+            </tr>
+            <tr>
+                <td><a href="https://en.wikipedia.org/wiki/Rishabh_Pant" target="_blank">Rishabh Pant</a></td>
+                <td>50</td>
+                <td>30</td>
+                <td>5</td>
+                <td>2</td>
+                <td>40</td>
+            </tr>
+            <tr>
+                <td><a href="https://en.wikipedia.org/wiki/Hardik_Pandya" target="_blank">Hardik Pandya</a></td>
+                <td>60</td>
+                <td>40</td>
+                <td>5</td>
+                <td>2</td>
+                <td>40</td></tr>
+                <tr>
+                    <td><a href="https://en.wikipedia.org/wiki/Ravichandran_Ashwin" target="_blank">Ashwin</a></td>
+                    <td>20</td>
+                    <td>10</td>
+                    <td>3</td>
+                    <td>1</td>
+                    <td>10</td>
+                </tr>
+                <tr>
+                    <td><a href="https://en.wikipedia.org/wiki/Ravindra_Jadeja" target="_blank">Jadeja</a></td>
+                    <td>40</td>
+                    <td>30</td>
+                    <td>5</td>
+                    <td>2</td>
+                    <td>20</td></tr>
+                    <tr>
+                        <td><a href="https://en.wikipedia.org/wiki/Yuzvendra_Chahal" target="_blank">Chahal</a></td>
+                        <td>20</td>
+                        <td>10</td>
+                        <td>3</td>
+                        <td>2</td>
+                        <td>30</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://en.wikipedia.org/wiki/Jasprit_Bumrah" target="_blank">Bumrah</a></td>
+                        <td>20</td>
+                        <td>30</td>
+                        <td>1</td>
+                        <td>1</td>
+                        <td>10</td>
+                    </tr>
+                    <tr>
+                        <td><a href="https://en.wikipedia.org/wiki/Shikhar_Dhawan" target="_blank">Dhawan</a></td>
+                        <td>50</td>
+                        <td>30</td>
+                        <td>5</td>
+                        <td>2</td>
+                        <td>40</td>
+                    </tr>
+                
+            
+        </table>
+
+        <div class="img">  <!--img-->
+            <img src="cricket1.png.jpeg">
+        </div>
+  
+    </body>
+</html>

@@ -1,0 +1,50 @@
+.section1{
+    height: 30rem;
+    width: 100%;
+    display: flex;
+    left:10%;
+}
+.img{
+    width: max-content;
+}
+.img img{
+    height:50%;
+    width: 70%;
+    margin: 80px;
+}
+.section1 table{
+    width: 70%;
+}
+
+body{
+    background-color: rgb(23, 23, 52);
+}
+table{
+
+    height: max-content;
+    border: 2px solid black;
+    border-collapse: collapse;
+   border-radius: 60px;
+}
+th{
+    background-color: rgba(249, 249, 16, 0.824);
+  border-radius: 0.5px;
+  
+} 
+tr{
+    background-color: whitesmoke;
+}
+th, td, tr {
+  padding: 10px;
+  text-align: left;
+  height: 10px;
+  border: 1px solid black;
+  border-collapse: collapse;
+  
+}
+tr :hover{
+    background-color: orangered;
+}
+.h1{
+color:white;
+}
